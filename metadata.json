@@ -1,0 +1,6 @@
+{
+  "name": "AI硕士班训练营落地页",
+  "description": "51CTO特邀合作的名校在职硕士申请服务及AI与计算机训练营官方落地页",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

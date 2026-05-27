@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-brand-red: #D22630;
+  --color-brand-dark: #0B132B;
+  --color-brand-slate: #1C2541;
+  --color-brand-coolBlue: #2563EB;
+  --color-brand-bgLight: #F3F7FA;
+  --color-brand-accentIce: #E5EFF8;
+  --color-brand-border: #D1D9E6;
+  --font-sans: "Noto Sans SC", ui-sans-serif, system-ui, sans-serif;
+}
+
