@@ -213,7 +213,7 @@ export default function App() {
               <div className="space-y-1.5">
                 <h3 className="text-sm font-bold text-brand-dark leading-snug">免联考申请通道</h3>
                 <p className="text-xs text-slate-500 leading-relaxed font-medium">
-                  中文授课/灵活学制，不脱产拿硕士学位
+                  中文学习/灵活学制，不脱产拿硕士学位
                 </p>
               </div>
             </div>
